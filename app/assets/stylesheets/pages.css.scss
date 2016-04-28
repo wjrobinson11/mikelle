@@ -3,7 +3,7 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
 html {
-  background: image-url(mikelle-album-cover-blurred.png) no-repeat center center fixed; 
+  background-image: image-url("mikelle-album-cover-blurred.png"); 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
